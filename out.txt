@@ -1,0 +1,166 @@
+8  T C A           
+7                  
+6                  
+5                  
+4                  
+3                  
+2  p p p p p p p p 
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8  T C A           
+7                  
+6                  
+5                  
+4                p 
+3                  
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8  T C             
+7                  
+6                  
+5                  
+4                p 
+3                A 
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8  T C             
+7                  
+6                  
+5                p 
+4                  
+3                A 
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8  T               
+7                  
+6      C           
+5                p 
+4                  
+3                A 
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8  T               
+7                  
+6      C         p 
+5                  
+4                  
+3                A 
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8  T               
+7                  
+6                p 
+5                  
+4    C             
+3                A 
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8  T               
+7                p 
+6                  
+5                  
+4    C             
+3                A 
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8    T             
+7                p 
+6                  
+5                  
+4    C             
+3                A 
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8    T           t 
+7                  
+6                  
+5                  
+4    C             
+3                A 
+2  p p p p p p p   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8    T           t 
+7                  
+6                  
+5                  
+4    C             
+3                  
+2  p p p p p p A   
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8    T             
+7                  
+6                  
+5                  
+4    C             
+3                  
+2  p p p p p p A t 
+1  t c a d r a c t 
+
+   A B C D E F G H
+
+------------------
+
+8    T             
+7                  
+6                  
+5                  
+4    C             
+3                  
+2  p p p p p p   t 
+1  t c a d r A c t 
+
+   A B C D E F G H
